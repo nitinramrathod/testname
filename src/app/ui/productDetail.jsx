@@ -34,6 +34,7 @@ export const ProductTitle = styled.h1`
 `;
 export const Wrapper = styled.section`
   background-color: #f5f5f5;
+  padding-top: 100px;
 `;
 export const ContentWrapper = styled.div`
   display: flex;
